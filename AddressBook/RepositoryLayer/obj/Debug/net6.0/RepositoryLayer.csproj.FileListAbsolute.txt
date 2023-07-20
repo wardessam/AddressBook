@@ -1,0 +1,17 @@
+C:\Users\hp\OneDrive\Desktop\3 Pillars Task\AddressBook\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.deps.json
+C:\Users\hp\OneDrive\Desktop\3 Pillars Task\AddressBook\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\3 Pillars Task\AddressBook\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.dll
+C:\Users\hp\OneDrive\Desktop\3 Pillars Task\AddressBook\RepositoryLayer\bin\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\hp\OneDrive\Desktop\3 Pillars Task\AddressBook\RepositoryLayer\bin\Debug\net6.0\DomainLayer.dll
+C:\Users\hp\OneDrive\Desktop\3 Pillars Task\AddressBook\RepositoryLayer\bin\Debug\net6.0\DomainLayer.pdb
+C:\Users\hp\OneDrive\Desktop\3 Pillars Task\AddressBook\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.AssemblyReference.cache
+C:\Users\hp\OneDrive\Desktop\3 Pillars Task\AddressBook\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\3 Pillars Task\AddressBook\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\3 Pillars Task\AddressBook\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\3 Pillars Task\AddressBook\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\3 Pillars Task\AddressBook\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.csproj.CopyComplete
+C:\Users\hp\OneDrive\Desktop\3 Pillars Task\AddressBook\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.dll
+C:\Users\hp\OneDrive\Desktop\3 Pillars Task\AddressBook\RepositoryLayer\obj\Debug\net6.0\refint\RepositoryLayer.dll
+C:\Users\hp\OneDrive\Desktop\3 Pillars Task\AddressBook\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.pdb
+C:\Users\hp\OneDrive\Desktop\3 Pillars Task\AddressBook\RepositoryLayer\obj\Debug\net6.0\RepositoryLayer.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\3 Pillars Task\AddressBook\RepositoryLayer\obj\Debug\net6.0\ref\RepositoryLayer.dll
